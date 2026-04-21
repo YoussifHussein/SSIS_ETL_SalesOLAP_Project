@@ -105,7 +105,7 @@ SSIS_ETL_SalesOLAP_Project/
 ├── Data/
 └── README.md
 ```
-
+ ![Sample CSV Output](Images/DataFlow.png)
 ---
 
 ## ▶️ How to Run
@@ -124,9 +124,7 @@ SSIS_ETL_SalesOLAP_Project/
 * Fully structured Data Warehouse
 * Clean and consistent data
 * Ready for reporting tools (Power BI, SSRS)
-* [Sample CSV Output]
-* [Images\SalesAnalysis.png]
-
+* ![Sample CSV Output](Images/SalesAnalysis.png)
 ---
 
 ## 🚀 Future Enhancements
