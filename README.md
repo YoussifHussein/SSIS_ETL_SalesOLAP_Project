@@ -124,6 +124,8 @@ SSIS_ETL_SalesOLAP_Project/
 * Fully structured Data Warehouse
 * Clean and consistent data
 * Ready for reporting tools (Power BI, SSRS)
+* ![Sample CSV Output]
+* (Images/"C:\Users\Admin\source\repos\ETL_Sales_Project\ETL_Sales_Project\Images\SalesAnalysis.png")
 
 ---
 
