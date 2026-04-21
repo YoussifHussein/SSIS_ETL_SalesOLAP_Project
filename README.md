@@ -125,7 +125,7 @@ SSIS_ETL_SalesOLAP_Project/
 * Clean and consistent data
 * Ready for reporting tools (Power BI, SSRS)
 * [Sample CSV Output]
-* [(images\SalesAnalysis.png)]
+* [Images\SalesAnalysis.png]
 
 ---
 
