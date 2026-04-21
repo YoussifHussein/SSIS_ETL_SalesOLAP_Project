@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DTS:ConnectionManager xmlns:DTS="www.microsoft.com/SqlServer/Dts"
+  DTS:ObjectName="oltp"
+  DTS:DTSID="{565035AC-E26D-4AA2-BDB0-4FF476CAC35C}"
+  DTS:CreationName="ADO">
+  <DTS:ObjectData>
+    <DTS:ConnectionManager
+      DTS:ConnectionString="Data Source=.;Initial Catalog=Sales_OLTP;Provider=MSOLEDBSQL.1;Integrated Security=SSPI;Auto Translate=False;Application Name=SSIS-ETL_Sales_Project-{565035AC-E26D-4AA2-BDB0-4FF476CAC35C}Data Connection;" />
+  </DTS:ObjectData>
+</DTS:ConnectionManager>
